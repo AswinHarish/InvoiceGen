@@ -1,3 +1,5 @@
 # InvoiceGen
 
-#pip install invoicegenerator
+```
+pip install invoicegenerator
+```
