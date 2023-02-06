@@ -6,7 +6,7 @@ from tkinter.filedialog import *
 
 os.environ["INVOICE_LANG"] = "en"
 
-a = print('Choose an image file for logo ')
+print('Choose an image file for logo ')
 logo = askopenfilename()
 
 y_Name = input('Enter Your Name : ')
